@@ -1,25 +1,60 @@
-Marc Levy Profile
 ---
-I am a Commercial Lead of Cost, Commercial and Project Management with 25+ years’ experience delivering large-scale data centre, infrastructure, civil engineering, transport, utilities, and critical asset programmes across the UK and Europe.
+layout: single
+title: "About"
+permalink: /about/
+author_profile: true
+---
 
-My work sits at the intersection of commercial strategy, contracts, and technology. I lead multi-billion-pound portfolios, set commercial governance, and negotiate complex NEC, FIDIC, and JCT arrangements, while also designing the digital tooling that keeps those programmes under control.
+I’m Marc Levy C.Build E FCABE FCMI FCIHT FCILT MIET GMICE, a Commercial Lead of cost, commercial and project management with over 25 years’ experience across data centres, transport, utilities, civil engineering and critical infrastructure in the UK and Europe.
 
-I currently live in Rotterdam and work on hyperscale data centre programmes through Accenture, supporting clients from early business case and land strategy through design, procurement, construction, commissioning, and operations. Typical responsibilities include cost planning and benchmarking, risk and contingency modelling, change control, supplier frameworks, and executive reporting. I am comfortable operating from boardroom to site cabin, translating between legal, technical, financial, and delivery teams.
+I specialise in:
 
-Alongside my commercial work, I am actively developing as a software engineer. I maintain several GitHub repositories focused on practical tools for project and commercial management, including full-stack applications built with TypeScript, React, Node.js, Cloudflare Workers & Pages, and the Hono framework. Recent work includes an in-house Contract & Project Management System (CPMS) for NEC/FIDIC/JCT, internal portals, and experiments with AI-assisted contract review and cost analytics. ORCID and GitHub together reflect this dual profile: commercial leader and hands-on technical builder.
+- Strategic commercial leadership and governance for multi-billion-pound programmes  
+- Contract strategy and negotiation (NEC, FIDIC, JCT and related forms)  
+- Cost management, cost engineering, estimating, assurance and benchmarking  
+- Procurement strategy, category management and supplier performance  
+- Programme and project controls, risk and change management  
+- Data, AI and software tooling that makes commercial information usable in real time  
 
-Academically, I hold a Master of Laws (LLM) in International Commercial Law and I am currently pursuing a portfolio of advanced postgraduate degrees:
-– MSc Engineering with Construction Management (Abertay University)
-– MBA Entrepreneurship (University of Wolverhampton)
-– MSc Logistics and Supply Chain Management (University of Hull)
-– Global Executive MBA (AI) (University of Hertfordshire)
-– MBA Project Management (Wrexham Glyndŵr University)
-– MBA with Finance (St Mary’s University)
+I currently work in EMEA on hyperscale data centre and cloud-infrastructure programmes, while also developing AI-enabled tooling and SaaS concepts that support smarter procurement, contract management and portfolio reporting.
 
-I also hold multiple chartered and fellowship-level professional memberships in cost, commercial, and project management disciplines.
+### Qualifications and professional recognition
 
-Under the Quoralinex / Q1X umbrella, I am building a family of venture projects that link this experience back into industry: CPMS for smarter contract management, Sentinel-X for advanced protective equipment, AquaCore and Currents for novel energy concepts, and Equitable Journeys, a not-for-profit platform focused on career development and access to learning. Many of these ideas are prototyped in public via my GitHub repositories, where code, data models, and documentation are openly iterated.
+- NVQ Level 7 Diploma in Senior Construction Management  
+- NVQ Level 6 Diplomas in Quantity Surveying, Estimating, Planning and Buying  
+- RICS Foundation Course in Quantity Surveying  
+- RICS Advanced Course in Quantity Surveying  
+- APM Introductory Certificate in Project Management  
 
-Outside work, I recharge through travel, house music, cycling, films, and the occasional manga binge. I value credible, nuanced discussion, enjoy mentoring early-career professionals, and am particularly interested in how AI, modern software practices, and thoughtful procurement design can make major projects fairer, leaner, and more effective.
-For more info
-------
+I also hold Fellowships and Memberships including C.Build E FCABE, FCMI, FCIHT, FCILT, MIET and GMICE, recognising contributions to transport, management, highways, building engineering and infrastructure development.
+
+### Degrees in progress
+
+- MSc Engineering with Construction Management, Abertay University  
+- MBA Entrepreneurship, University of Wolverhampton  
+- MSc Logistics and Supply Chain Management, University of Hull  
+- Global Executive MBA (AI), University of Hertfordshire  
+- MBA Project Management, Wrexham Glyndŵr University  
+- MBA with Finance, St Mary’s University  
+
+### Software, data and AI
+
+Alongside traditional commercial work, I design and build tools that sit on GitHub and Cloudflare, including:
+
+- A contract and commercial management system for NEC / FIDIC / JCT projects  
+- Data-centre cost and performance dashboards using Python, Power BI and SQL  
+- Experimental products in AI, renewable energy and protective equipment
+
+ORCID has begun to index my software work via my GitHub repositories, reflecting a growing software-development and data-engineering skill set alongside my infrastructure background.
+
+### About this site
+
+This site hosts:
+
+- **Publications** – reports, case studies and articles  
+- **Talks** – conference sessions, webinars and invited talks  
+- **Teaching** – guest lectures, mentoring and training activity  
+- **Portfolio** – selected projects and experiments across infrastructure, data and product development  
+- **Blog Posts** – short pieces based on LinkedIn posts and ongoing work  
+
+It’s meant to be a single place where the commercial, technical and academic strands of my work come together.
