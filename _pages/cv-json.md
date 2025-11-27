@@ -1,10 +1,8 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv-json/
-author_profile: false
-redirect_from:
-  - /resume-json
+layout: none
+permalink: /cv.json
+sitemap: false
+published: false
 ---
 
 {% include base_path %}
