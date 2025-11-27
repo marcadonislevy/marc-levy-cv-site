@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-site_theme               : "default" # we'll override colours via SCSS
+site_theme               : "quoralinex" # we'll override colours via SCSS
 title                    : "Marc Levy | Commercial & Data Infrastructure Leadership"
 title_separator          : "-"
 name                     : &name "Marc Levy"
