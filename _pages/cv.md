@@ -9,4 +9,4 @@ author_profile: true
 
 Download a full CV on request, or browse the highlights below.
 
-{% include cv.html %}
+{% include cv-template.html %}
