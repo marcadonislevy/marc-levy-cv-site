@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       :
-  bluesky          :                  # e.g. "marclevy.bsky.social" once created
+  bluesky          : "quoralinex.bsky.social" # e.g. "marclevy.bsky.social" once created
   facebook         :
   flickr           :
   foursquare       :
@@ -63,7 +63,7 @@ author:
   instagram        :                  # e.g. travel / photography account
   lastfm           :
   linkedin         : "transformative-professional"
-  mastodon         :
+  mastodon         : "@Quoralinex@mastodon.social"
   medium           :                  # for longer articles if you want them
   pinterest        :
   soundcloud       :
@@ -97,6 +97,8 @@ social:
     - "https://www.linkedin.com/in/transformative-professional/"
     - "https://github.com/marcadonislevy"
     - "https://orcid.org/0009-0005-8290-5720"
+    - "https://bsky.app/profile/quoralinex.bsky.social"
+    - "https://mastodon.social/@Quoralinex"
 
 
 # Site Settings
