@@ -1,6 +1,7 @@
 ---
 title: "Joining the Harvard Business Review Advisory Council"
-categories: [leadership]
+categories:
+  - leadership
 tags: [HBR, strategy, leadership, governance]
 author: "Marc Levy"
 ---

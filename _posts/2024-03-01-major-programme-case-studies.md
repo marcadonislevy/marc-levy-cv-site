@@ -1,6 +1,7 @@
 ---
 title: "Selected Case Studies: Data Centres, Transport and Infrastructure"
-categories: [case-studies]
+categories:
+  - case-studies
 tags: [data-centres, HS2, TfL, Google, commercial-management]
 author: "Marc Levy"
 ---
