@@ -1,12 +1,75 @@
----
----
+// Custom overrides for the Quoralinex / Q1X CV site
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+body {
+  background: var(--global-bg-color);
+  color:      var(--global-base-color);
+}
 
-@import "minimal-mistakes";  // existing theme import
-@import "custom";            // your overrides (this file)
+a,
+a:visited {
+  color: var(--global-link-color);
+}
+
+a:hover,
+a:focus {
+  color: var(--global-link-color-hover);
+}
+
+/* Header bar / nav */
+
+.masthead,
+.masthead__inner-wrap {
+  background: var(--global-header-bg);
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+/* Cards and panels */
+
+.page,
+.archive__item,
+.notice,
+.highlight {
+  background: var(--global-card-bg-color);
+  border-color: var(--global-border-color);
+}
+
+/* Footer */
+
+.page__footer {
+  background: var(--global-footer-bg);
+  color: var(--global-muted-text-color);
+}
+
+.page__footer a {
+  color: var(--global-link-color);
+}
+
+.page__footer a:hover {
+  color: var(--global-link-color-hover);
+}
+
+/* Accent buttons */
+
+.btn,
+.btn--primary {
+  background: var(--global-accent-color);
+  border-color: var(--global-accent-color);
+  color: #050816;
+}
+
+.btn:hover,
+.btn--primary:hover {
+  background: var(--global-accent-color-hover);
+  border-color: var(--global-accent-color-hover);
+}
+
+/* Apply font stack */
+
+body {
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Space Grotesk", "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: 0.02em;
+}
