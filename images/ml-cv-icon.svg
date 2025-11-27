@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#050816"/>
+  <rect x="64" y="64" width="384" height="384" rx="96" ry="96"
+        fill="none" stroke="#00D0FF" stroke-width="20"/>
+  <text x="50%" y="54%" text-anchor="middle"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-weight="700" font-size="210" fill="#00D0FF">
+    ML
+  </text>
+</svg>
