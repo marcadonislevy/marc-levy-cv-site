@@ -1,6 +1,7 @@
 ---
 title: "Preparing for My MRICS Assessment"
-categories: [professional-development]
+categories:
+  - professional-development
 tags: [RICS, MRICS, career-development, mentoring]
 author: "Marc Levy"
 ---

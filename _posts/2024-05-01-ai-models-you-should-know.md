@@ -1,6 +1,7 @@
 ---
 title: "Breakthrough AI and LLM Models You Should Know"
-categories: [ai-and-data]
+categories:
+  - ai-and-data
 tags: [AI, LLM, GenAI, Machine Learning, RAG]
 author: "Marc Levy"
 ---
