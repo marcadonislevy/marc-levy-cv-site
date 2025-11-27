@@ -7,89 +7,97 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+locale                   : "en-GB"
+site_theme               : "default" # we'll override colours via SCSS
+title                    : "Marc Levy | Commercial & Data Infrastructure Leadership"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Marc Levy"
+description              : &description "Commercial lead and data infrastructure specialist working across data centres, civil engineering and smart infrastructure in the UK and Europe."
+url                      : "https://cv.q1x.xyz"   # primary domain
+baseurl                  : ""                     # no subpath
+repository               : "marcadonislevy/marc-levy-cv-site"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "profile.png"   # put your headshot in /images/profile.png
+  name             : "Marc Levy"
+  pronouns         :                 # leave blank if you prefer
+  bio              : "Commercial lead for data infrastructure and major programmes, specialising in cost, contracts and smart procurement across the UK and Europe."
+  location         : "Rotterdam, Netherlands"
+  employer         : "Accenture"
+  uri              : "https://cv.q1x.xyz"
+  email            : "marclevy@q1x.xyz"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
+  academia         :
+  arxiv            :
+  googlescholar    :                  # create later, then paste full URL
+  inspire-hep      :
+  impactstory      :
+  orcid            : "https://orcid.org/0009-0005-8290-5720"
+  semantic         :
+  ssrn             :                  # useful for commercial law / contracts papers
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  github           : "marcadonislevy"
+  kaggle           :
+  stackoverflow    :
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  artstation       :
+  bluesky          :                  # e.g. "marclevy.bsky.social" once created
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :                  # e.g. travel / photography account
+  lastfm           :
+  linkedin         : "transformative-professional"
+  mastodon         :
+  medium           :                  # for longer articles if you want them
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          :                  # X handle if/when you create one
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :                  # channel for talks / explainer videos
+  zhihu            :
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# Social Sharing
+twitter:
+  username               : &twitter      # fill once you have an X/Twitter handle
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :
+og_description           :
+
+# For specifying social profiles
+social:
+  type                   : "Person"
+  name                   : "Marc Levy"
+  links:
+    - "https://cv.q1x.xyz"
+    - "https://www.linkedin.com/in/transformative-professional/"
+    - "https://github.com/marcadonislevy"
+    - "https://orcid.org/0009-0005-8290-5720"
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
