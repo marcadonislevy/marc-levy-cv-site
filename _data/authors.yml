@@ -1,18 +1,12 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+"Marc Levy":
+  name        : "Marc Levy"
+  uri         : "https://cv.q1x.xyz"
+  email       : "marclevy@q1x.xyz"
+  bio         : "Commercial & data infrastructure leadership for hyperscale data centres and major programmes across the UK and Europe."
+  avatar      : "profile.png"
+  github      : "marcadonislevy"
+  linkedin    : "marc-levy-fcabe-fcmi-fcilex"
+  orcid       : "0000-0000-0000-0000"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
