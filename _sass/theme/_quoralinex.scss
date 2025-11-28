@@ -1,50 +1,69 @@
-/* Quoralinex (Q1X) theme – light and dark variants */
+// Quoralinex / Q1X palette
+$primary-color:        #050816;  // deep navy background
+$accent-color:         #00d0ff;  // cyan accent
+$accent-color-alt:     #ff7a45;  // warm accent
+$border-color:         rgba(255, 255, 255, 0.08);
+$text-color:           #f5f7fb;
+$muted-text-color:     #b4bccf;
+$link-color:           $accent-color;
+$link-color-hover:     lighten($accent-color, 10%);
+$background-color:     #02040c;
 
-$danger-color  : #ee5f5b;
-$info-color    : #00d0ff;
-$notice-color  : #7a8288;
-$success-color : #62c462;
-$warning-color : #f89406;
+$serif:                "Georgia", "Times New Roman", serif;
+$sans-serif:           "Inter", system-ui, -apple-system, BlinkMacSystemFont,
+                       "Segoe UI", sans-serif;
+$heading-font-family:  "Space Grotesk", $sans-serif;
 
-/* Light theme (day mode) */
-:root {
-  --global-base-color:            #050816;      /* text */
-  --global-bg-color:              #f5f7fb;      /* page background */
-  --global-card-bg-color:         #ffffff;      /* cards/panels */
-  --global-header-bg:             #050816;      /* masthead */
-  --global-footer-bg:             #050816;
-
-  --global-link-color:            #00d0ff;
-  --global-link-color-hover:      #22e0ff;
-  --global-link-color-visited:    #7adfff;
-
-  --global-accent-color:          #00d0ff;
-  --global-accent-color-hover:    #22e0ff;
-
-  --global-border-color:          rgba(5, 8, 22, 0.08);
-  --global-muted-text-color:      #6b7280;
-  /* leave code colors as you have them */
+body {
+  font-family: $sans-serif;
+  background: $background-color;
+  color: $text-color;
 }
 
-/* Dark theme (night mode) */
-:root[data-theme="dark"] {
-  color-scheme: dark;
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+  letter-spacing: 0.02em;
+}
 
-  --global-base-color:            #e5e7eb;      /* text */
-  --global-bg-color:              #02040c;      /* overall background */
-  --global-card-bg-color:         #050816;
-  --global-header-bg:             #050816;
-  --global-footer-bg:             #050816;
+:root {
+  --q1x-bg:          #{$background-color};
+  --q1x-surface:     #{$primary-color};
+  --q1x-text:        #{$text-color};
+  --q1x-muted-text:  #{$muted-text-color};
+  --q1x-accent:      #{$accent-color};
+  --q1x-accent-warm: #{$accent-color-alt};
 
-  --global-link-color:            #00d0ff;
-  --global-link-color-hover:      #22e0ff;
-  --global-link-color-visited:    #7adfff;
+  /* Map brand colours to Minimal Mistakes custom properties */
+  --global-bg-color:          var(--q1x-bg);
+  --global-base-color:        var(--q1x-text);
+  --global-muted-text-color:  var(--q1x-muted-text);
+  --global-link-color:        var(--q1x-accent);
+  --global-link-color-hover:  var(--q1x-accent-warm);
+  --global-card-bg-color:     var(--q1x-surface);
+  --global-border-color:      #{$border-color};
+  --global-header-bg:         var(--q1x-surface);
+  --global-footer-bg:         var(--q1x-surface);
+  --global-accent-color:      var(--q1x-accent);
+  --global-accent-color-hover: var(--q1x-accent-warm);
+}
 
-  --global-accent-color:          #00d0ff;
-  --global-accent-color-hover:    #22e0ff;
+[data-theme="dark"] {
+  --q1x-bg:          #{$background-color};
+  --q1x-surface:     #{$primary-color};
+  --q1x-text:        #{$text-color};
+  --q1x-muted-text:  #{$muted-text-color};
+  --q1x-accent:      #{$accent-color};
+  --q1x-accent-warm: #{$accent-color-alt};
 
-  --global-border-color:          rgba(148, 163, 184, 0.25);
-  --global-muted-text-color:      #9ca3af;
-
-  /* keep your existing code background/text colors here as well */
+  --global-bg-color:          var(--q1x-bg);
+  --global-base-color:        var(--q1x-text);
+  --global-muted-text-color:  var(--q1x-muted-text);
+  --global-link-color:        var(--q1x-accent);
+  --global-link-color-hover:  var(--q1x-accent-warm);
+  --global-card-bg-color:     var(--q1x-surface);
+  --global-border-color:      rgba(244, 247, 251, 0.12);
+  --global-header-bg:         var(--q1x-surface);
+  --global-footer-bg:         var(--q1x-surface);
+  --global-accent-color:      var(--q1x-accent);
+  --global-accent-color-hover: var(--q1x-accent-warm);
 }

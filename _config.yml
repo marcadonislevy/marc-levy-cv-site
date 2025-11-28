@@ -20,7 +20,7 @@ repository               : "marcadonislevy/marc-levy-cv-site"
 # Site Author
 author:
   # Biographic information
-  avatar           : "profile.png"   # put your headshot in /images/profile.png
+  avatar           : "images/profile.png"   # put your headshot in /images/profile.png
   name             : "Marc Levy"
   pronouns         :                 # leave blank if you prefer
   bio              : "Commercial lead for data infrastructure and major programmes, specialising in cost, contracts and smart procurement across the UK and Europe."
