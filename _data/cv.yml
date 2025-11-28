@@ -1,104 +1,103 @@
-- title: "Experience"
-  type: "time_table"
-  contents:
-    - title: "Commercial Lead – Data Centre & Infrastructure"
-      institution: "Accenture, Europe"
-      year: "2023 – Present"
-      description:
-        - Lead cost, commercial and contract management for hyperscale data-centre programmes across the UK and EU.
-        - Responsible for commercial strategy, governance, risk, and supplier performance on multi-billion-pound portfolios.
-        - Integrate AI, data and software tooling into cost reporting, change control and executive decision support.
+basics:
+  name: "Marc Levy"
+  label: "Commercial Lead – Cost, Commercial & Project Management"
+  summary: "Commercial lead with over 25 years’ experience in cost, commercial and project management across data centres, transport, utilities, civil engineering and critical infrastructure in the UK and Europe."
+  location:
+    city: "EMEA"
+    region: "UK & EU"
+    countryCode: ""
+  profiles: []
 
-    - title: "Associate / Senior Commercial & Programme Manager"
-      institution: "Transport for London (TfL) & London Underground (via consulting roles)"
-      year: "2015 – 2023"
-      description:
-        - Led commercial strategy and programme controls on major rail and station upgrade programmes.
-        - Introduced structured risk, change and governance frameworks across complex stakeholder environments.
-        - Delivered case-study outcomes in efficiency, cost control and contractual risk reduction.
+work:
+  - position: "Commercial Lead – Data Centre & Infrastructure"
+    company: "Accenture, Europe"
+    startDate: "2023"
+    summary: "Lead cost, commercial and contract management for hyperscale data-centre programmes across the UK and EU."
+    highlights:
+      - "Set commercial strategy, governance, risk and supplier performance frameworks for multi-billion-pound portfolios."
+      - "Integrate AI, data and software tooling into cost reporting, change control and executive decision support."
+      - "Focus on hyperscale cloud and critical infrastructure assets across EMEA."
 
-    - title: "Senior Cost Manager / Commercial Lead – Data Centres"
-      institution: "Turner & Townsend, High Speed Two Ltd, Google Eemshaven (GRQ5A) and other clients"
-      year: "2008 – 2015"
-      description:
-        - Led estimating, cost planning and commercial management on large-scale data-centre and infrastructure assets.
-        - Set up cost baselines, assurance frameworks and benchmarking for high-profile programmes.
-        - Supported senior client teams with commercial strategy, dispute avoidance and supplier negotiations.
+  - position: "Associate / Senior Commercial & Programme Manager"
+    company: "Transport for London (TfL) & London Underground (consulting roles)"
+    startDate: "2015"
+    endDate: "2023"
+    summary: "Led commercial strategy and programme controls on major rail and station upgrade programmes."
+    highlights:
+      - "Introduced structured risk, change and governance frameworks across complex stakeholder environments."
+      - "Delivered case-study outcomes in efficiency, cost control and contractual risk reduction."
+      - "Provided commercial assurance and supplier performance leadership for high-profile transport programmes."
 
-    - title: "Pre-Construction Manager / Senior Estimator"
-      institution: "Balfour Beatty Rail"
-      year: "2004 – 2008"
-      description:
-        - Managed pre-construction estimating and bid strategy for major rail and civils projects.
-        - Coordinated multidisciplinary inputs across engineering, planning and commercial teams.
+  - position: "Senior Cost Manager / Commercial Lead – Data Centres"
+    company: "Turner & Townsend, High Speed Two Ltd, Google Eemshaven (GRQ5A) and other clients"
+    startDate: "2008"
+    endDate: "2015"
+    summary: "Led estimating, cost planning and commercial management on large-scale data-centre and infrastructure assets."
+    highlights:
+      - "Established cost baselines, assurance frameworks and benchmarking for high-profile programmes."
+      - "Supported senior client teams with commercial strategy, dispute avoidance and supplier negotiations."
+      - "Delivered sector expertise across data centres, rail and infrastructure delivery."
 
-- title: "Education – Degrees in progress"
-  type: "time_table"
-  contents:
-    - title: "MSc Engineering with Construction Management"
-      institution: "Abertay University"
-      year: "In progress"
-    - title: "MBA Entrepreneurship"
-      institution: "University of Wolverhampton"
-      year: "In progress"
-    - title: "MSc Logistics and Supply Chain Management"
-      institution: "University of Hull"
-      year: "In progress"
-    - title: "Global Executive MBA (AI)"
-      institution: "University of Hertfordshire"
-      year: "In progress"
-    - title: "MBA Project Management"
-      institution: "Wrexham Glyndŵr University"
-      year: "In progress"
-    - title: "MBA with Finance"
-      institution: "St Mary’s University"
-      year: "In progress"
+  - position: "Pre-Construction Manager / Senior Estimator"
+    company: "Balfour Beatty Rail"
+    startDate: "2004"
+    endDate: "2008"
+    summary: "Managed pre-construction estimating and bid strategy for major rail and civils projects."
+    highlights:
+      - "Coordinated multidisciplinary inputs across engineering, planning and commercial teams."
+      - "Built estimating and bid governance processes to support successful tendering."
 
-- title: "Professional & Vocational Qualifications"
-  type: "time_table"
-  contents:
-    - title: "NVQ Level 7 Diploma in Senior Construction Management"
-      institution: "UK Construction Qualifications"
-      year: 
-    - title: "NVQ Level 6 Diplomas in Quantity Surveying, Estimating, Planning and Buying"
-      institution: "UK Construction Qualifications"
-      year: 
-    - title: "Advanced Course in Quantity Surveying"
-      institution: "RICS / College of Estate Management"
-      year: "2014"
-    - title: "Foundation Course in Quantity Surveying"
-      institution: "RICS / College of Estate Management"
-      year: "2013"
-    - title: "APM Introductory Certificate in Project Management"
-      institution: "Association for Project Management"
-      year: "2011"
+education:
+  - institution: "Abertay University"
+    area: "MSc Engineering with Construction Management"
+    endDate: "In progress"
+  - institution: "University of Wolverhampton"
+    area: "MBA Entrepreneurship"
+    endDate: "In progress"
+  - institution: "University of Hull"
+    area: "MSc Logistics and Supply Chain Management"
+    endDate: "In progress"
+  - institution: "University of Hertfordshire"
+    area: "Global Executive MBA (AI)"
+    endDate: "In progress"
+  - institution: "Wrexham Glyndŵr University"
+    area: "MBA Project Management"
+    endDate: "In progress"
+  - institution: "St Mary’s University"
+    area: "MBA with Finance"
+    endDate: "In progress"
 
-- title: "Professional Memberships & Fellowships"
-  type: "unordered_list"
-  contents:
-    - "Chartered Building Engineer, FCABE (Fellow of the Chartered Association of Building Engineers)"
-    - "Fellow of the Chartered Management Institute (FCMI)"
-    - "Fellow of the Chartered Institution of Highways & Transportation (FCIHT)"
-    - "Fellow of the Chartered Institute of Logistics & Transport (FCILT)"
-    - "Member of the Institution of Engineering and Technology (MIET)"
-    - "Graduate Member of the Institution of Civil Engineers (GMICE)"
-    - "Member, Harvard Business Review Advisory Council"
+skills:
+  - name: "Commercial leadership & governance"
+    keywords:
+      - "Strategic leadership for multi-billion-pound programmes across EMEA"
+      - "Cost management, cost engineering and benchmarking"
+      - "Programme and project controls, risk management and change control"
 
-- title: "Technical & Software Skills"
-  type: "unordered_list"
-  contents:
-    - "Cost & project controls: cost modelling, Earned Value, risk modelling, benchmarking, portfolio reporting"
-    - "Contracts & governance: NEC3/4, FIDIC, JCT, commercial strategy, dispute avoidance, supplier negotiation"
-    - "Data & analytics: Power BI, Excel modelling, SQL basics, KPI and dashboard design"
-    - "Software development: JavaScript and TypeScript, React, Vite, Node.js, GitHub, Cloudflare Workers & Pages, REST APIs, basic Python for data tasks"
-    - "Tooling & platforms: Git, GitHub Actions, Cloudflare R2, CI/CD, Jekyll and static-site workflows"
+  - name: "Contracts, procurement & supply chain"
+    keywords:
+      - "Contract strategy and negotiation across NEC, FIDIC and JCT forms"
+      - "Procurement strategy, category management and supplier performance"
+      - "Dispute avoidance and commercial assurance"
 
-- title: "Services"
-  type: "unordered_list"
-  contents:
-    - "Business consulting and strategic advisory for infrastructure and data-centre programmes"
-    - "Cost and commercial management, including procurement and contract strategy"
-    - "Programme management, PMO and project controls"
-    - "Data reporting, dashboards and decision-support tooling"
-    - "Change management, team leadership and capability building"
-    - "Career development coaching for commercial and project professionals"
+  - name: "Data, software & AI"
+    keywords:
+      - "Data-centre cost and performance dashboards using Python, Power BI and SQL"
+      - "AI-enabled tooling and SaaS concepts for procurement and portfolio reporting"
+      - "GitHub and Cloudflare-based tooling, React/TypeScript and Cloudflare Workers"
+
+  - name: "Qualifications & professional recognition"
+    keywords:
+      - "NVQ Level 7 Diploma in Senior Construction Management"
+      - "NVQ Level 6 Diplomas in Quantity Surveying, Estimating, Planning and Buying"
+      - "LLM (Construction Law and Arbitration)"
+      - "MRICS, Chartered Surveyor"
+      - "C.Build E FCABE, FCMI, FCIHT, FCILT, MIET, GMICE"
+      - "APM Introductory Certificate in Project Management"
+
+interests:
+  - name: "Sectors & focus"
+    keywords:
+      - "Hyperscale data centres and cloud infrastructure"
+      - "Transport, utilities and critical infrastructure"
+      - "AI-enabled commercial and project controls"
