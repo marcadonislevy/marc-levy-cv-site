@@ -1,5 +1,13 @@
 // Custom overrides for the Quoralinex / Q1X CV site
-
+:root {
+  --q1x-bg: #f5f5f7;
+  --q1x-surface: #ffffff;
+  --q1x-border: #e1e3ea;
+  --q1x-text: #111827;
+  --q1x-muted: #4b5563;
+  --q1x-accent: #0f172a;  /* deep navy */
+  --q1x-link: #0f172a;
+}
 body {
   background-color: var(--q1x-bg);
   color:            var(--q1x-text);
