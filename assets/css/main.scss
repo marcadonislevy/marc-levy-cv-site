@@ -1,18 +1,22 @@
 // Custom overrides for the Quoralinex / Q1X CV site
+@import "minimal-mistakes";      // base theme
+@import "quoralinex";            // my custom palette at _sass/_quoralinex.scss
+@import "custom";                // optional legacy overrides, if needed
 
 body {
-  background: var(--global-bg-color);
-  color:      var(--global-base-color);
+  background-color: var(--q1x-bg);
+  color:            var(--q1x-text);
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 a,
 a:visited {
-  color: var(--global-link-color);
+  color: var(--q1x-accent);
 }
 
 a:hover,
 a:focus {
-  color: var(--global-link-color-hover);
+  color: var(--q1x-accent-warm);
 }
 
 /* Header bar / nav */
@@ -37,37 +41,33 @@ a:focus {
 
 .page__footer {
   background: var(--global-footer-bg);
-  color: var(--global-muted-text-color);
+  color: var(--q1x-muted-text);
 }
 
 .page__footer a {
-  color: var(--global-link-color);
+  color: var(--q1x-accent);
 }
 
 .page__footer a:hover {
-  color: var(--global-link-color-hover);
+  color: var(--q1x-accent-warm);
 }
 
 /* Accent buttons */
 
 .btn,
 .btn--primary {
-  background: var(--global-accent-color);
-  border-color: var(--global-accent-color);
-  color: #050816;
+  background: var(--q1x-accent);
+  border-color: var(--q1x-accent);
+  color: var(--q1x-bg);
 }
 
 .btn:hover,
 .btn--primary:hover {
-  background: var(--global-accent-color-hover);
-  border-color: var(--global-accent-color-hover);
+  background: var(--q1x-accent-warm);
+  border-color: var(--q1x-accent-warm);
 }
 
 /* Apply font stack */
-
-body {
-  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Space Grotesk", "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
