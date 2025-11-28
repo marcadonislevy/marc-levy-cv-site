@@ -2,6 +2,7 @@
 layout: cv
 title: "CV"
 permalink: /cv/
+classes: wide
 ---
 
 [Download CV as PDF](/files/cv.pdf){: .btn .btn--primary}
@@ -48,4 +49,6 @@ Leading multi-billion-pound programmes across UK and Europe, with responsibility
 ## Contact
 
 For a full CV in PDF or to discuss roles, projects or collaborations:  
-Email: [marclevy@q1x.xyz](mailto:marclevy@q1x.xyz)
+**Email:** [marclevy@quoralinex.com](mailto:marclevy@quoralinex.com)  
+**Website:** [https://quoralinex.com](https://quoralinex.com)  
+**LinkedIn:** [https://www.linkedin.com/in/Q1X](https://www.linkedin.com/in/Q1X)
