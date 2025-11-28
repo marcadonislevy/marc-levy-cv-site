@@ -1,0 +1,44 @@
+// Quoralinex palette and variable mappings
+
+:root {
+  --q1x-bg:          #02040c;
+  --q1x-surface:     #050816;
+  --q1x-text:        #f5f7fb;
+  --q1x-muted-text:  #b4bccf;
+  --q1x-accent:      #00d0ff;
+  --q1x-accent-warm: #ff7a45;
+
+  /* Map brand colours to Minimal Mistakes custom properties */
+  --global-bg-color:          var(--q1x-bg);
+  --global-base-color:        var(--q1x-text);
+  --global-muted-text-color:  var(--q1x-muted-text);
+  --global-link-color:        var(--q1x-accent);
+  --global-link-color-hover:  var(--q1x-accent-warm);
+  --global-card-bg-color:     var(--q1x-surface);
+  --global-border-color:      rgba(244, 247, 251, 0.08);
+  --global-header-bg:         var(--q1x-surface);
+  --global-footer-bg:         var(--q1x-surface);
+  --global-accent-color:      var(--q1x-accent);
+  --global-accent-color-hover: var(--q1x-accent-warm);
+}
+
+[data-theme="dark"] {
+  --q1x-bg:          #02040c;
+  --q1x-surface:     #050816;
+  --q1x-text:        #f5f7fb;
+  --q1x-muted-text:  #b4bccf;
+  --q1x-accent:      #00d0ff;
+  --q1x-accent-warm: #ff7a45;
+
+  --global-bg-color:          var(--q1x-bg);
+  --global-base-color:        var(--q1x-text);
+  --global-muted-text-color:  var(--q1x-muted-text);
+  --global-link-color:        var(--q1x-accent);
+  --global-link-color-hover:  var(--q1x-accent-warm);
+  --global-card-bg-color:     var(--q1x-surface);
+  --global-border-color:      rgba(244, 247, 251, 0.12);
+  --global-header-bg:         var(--q1x-surface);
+  --global-footer-bg:         var(--q1x-surface);
+  --global-accent-color:      var(--q1x-accent);
+  --global-accent-color-hover: var(--q1x-accent-warm);
+}
