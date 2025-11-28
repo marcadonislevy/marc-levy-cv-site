@@ -7,19 +7,29 @@ redirect_from:
   - /markdown.html
 ---
 
-Welcome to the quick guide for this site. Content is deliberately concise and privacy-friendly: pages are static, avoid trackers, and focus on surfacing my work.
+# Using this site
 
-## What you can find
-- **About & CV:** Background, credentials, and project history collected in the CV page.
-- **Portfolio:** Highlights of current work including Quoralinex, CPMS, Sentinel-X, and energy prototypes.
-- **Files & links:** Any supporting documents live in the <code>files/</code> directory.
+This site is my professional CV and portfolio, built on the Academic Pages template.
 
-## How the site is structured
-- Navigation is intentionally minimal; additional sections (blog, publications, talks) will appear once they have public-ready content.
-- Each page is written in Markdown and rendered statically so it loads quickly and keeps your data private.
+## What you can find here
 
-## Future plans
-- Add a lightweight search or index to make it easier to browse documents.
-- Publish updates and short posts once real content is ready.
+- **Home** – snapshot of what I do and my current focus  
+- **About** – background, approach and career narrative  
+- **CV** – structured view of my experience, with a downloadable PDF  
+- **Portfolio** – platforms and projects I am building under Quoralinex / Q1X  
+- Additional sections (publications, talks, blog) will be populated as needed.
 
-If you need something specific that is not yet published, please reach out directly.
+## Downloading my CV
+
+On the [CV page](../cv/), you can:
+
+- Download a PDF copy of my CV  
+- View a markdown-based CV in your browser
+
+## Contact
+
+For roles, consulting or collaboration:
+
+- Email: [marclevy@q1x.xyz](mailto:marclevy@q1x.xyz)  
+- Bluesky: [quoralinex.bsky.social](https://bsky.app/profile/quoralinex.bsky.social)  
+- Mastodon: [@Quoralinex@mastodon.social](https://mastodon.social/@Quoralinex)
